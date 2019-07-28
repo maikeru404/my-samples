@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Canonic</string>
+    <string name="butname1">start</string>
+    <string name="textname1">canonic</string>
+
+    <string-array name="list_items1">
+        <item>Первый</item>
+        <item>Второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+    </string-array>
+</resources>
